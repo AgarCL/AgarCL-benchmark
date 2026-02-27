@@ -1,6 +1,6 @@
 # 📊 Reproducing DQN, PPO, and SAC in AgarCL
 
-This repository provides all code, configurations, and scripts to reproduce every experiment in **The Cell Must Go On** (arXiv:2505.18347). Below you’ll find a one-to-one mapping of each experiment to its exact launch command (DQN, PPO, SAC), using the best hyperparameters from our tuning tables.
+This repository provides all code, configurations, and scripts to reproduce every experiment in **The Cell Must Go On**. Below you’ll find a one-to-one mapping of each experiment to its exact launch command (DQN, PPO, SAC), using the best hyperparameters from our tuning tables.
 
 ---
 
